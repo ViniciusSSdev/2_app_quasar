@@ -60,7 +60,7 @@ export default {
       login: {
         email: "",
         senha: "",
-        ispwd: false,
+        ispwd: true,
       },
     };
   },
