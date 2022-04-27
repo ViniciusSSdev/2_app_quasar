@@ -152,9 +152,9 @@ module.exports = configure(function (ctx) {
 
 
       manifest: {
-        name: `Quasar App`,
-        short_name: `Quasar App`,
-        description: `A Quasar Project`,
+        name: `Alpha App`,
+        short_name: `Alpha App`,
+        description: `A alpha Project`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -219,7 +219,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'quasar-project'
+        appId: 'alpha-project'
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain
